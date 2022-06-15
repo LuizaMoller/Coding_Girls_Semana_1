@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aulaQuatro", "aulaQuatro.csproj", "{46DE1255-25E4-4933-9700-FD7AB24CA849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogoDaVelha", "..\jogoDaVelha\jogoDaVelha.csproj", "{AC1CB25E-94F6-4DF3-909C-652990DA4442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DE1255-25E4-4933-9700-FD7AB24CA849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DE1255-25E4-4933-9700-FD7AB24CA849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DE1255-25E4-4933-9700-FD7AB24CA849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DE1255-25E4-4933-9700-FD7AB24CA849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1CB25E-94F6-4DF3-909C-652990DA4442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1CB25E-94F6-4DF3-909C-652990DA4442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1CB25E-94F6-4DF3-909C-652990DA4442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1CB25E-94F6-4DF3-909C-652990DA4442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15704DE-6CF6-4D56-A9DA-94EDA1ED1023}
+	EndGlobalSection
+EndGlobal
