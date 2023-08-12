@@ -23,7 +23,7 @@ namespace AulaDois
             int soma = 0;
 
             Console.WriteLine("QUESTÃO 2)");
-            Console.WriteLine("Insira seus dez números: ");
+            //Console.WriteLine("Insira seus dez números: ");
 
             for (int i = 0; i < numeros.Length; i++)
             {
